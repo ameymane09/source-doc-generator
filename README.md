@@ -9,7 +9,7 @@ ___
 ## How to use
 * You will require 2 things:
   * **Sheet name:** Name of the sheet version. (Usually, it is `Script vX`). Make sure to give the final version of the Sheet.
-  * **Sheet ID:** You can copy this from the URL. For eg., the Bold part is the Sheet ID
+  * **Sheet ID:** You can copy this from the URL. For eg., the Bold part is the Sheet ID (Do not include `/`).
     * docs.google.com/spreadsheets/d/ _**1zwPujGeAQALu20sfTxQP5oRCb8OS4sCgQEuR1rtHEbU**_ /edit#gid=94820894
   
 * After you have the 2 things, run the `source doc generator.exe` file.
