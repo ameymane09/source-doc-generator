@@ -16,11 +16,11 @@ ___
   * Ignore all the system warning about how unsafe the app is.
   * (Your data is safe with me 😇. JK. I don't have access to any of your data 😝).
 * It will open a command prompt and also a browser window prompting you to sign in using your Google account.
-  * ![image](https://github.com/ameymane09/source-doc-generator/assets/71630371/f5acb772-3331-4b61-a6f0-5cc948d85f98)
+  * <img src='https://github.com/ameymane09/source-doc-generator/assets/71630371/f5acb772-3331-4b61-a6f0-5cc948d85f98' alt="image" width="50%" height="auto">
 * Click continue.
-  * ![image](https://github.com/ameymane09/source-doc-generator/assets/71630371/198bb716-d33c-41be-b79d-abdbb1070d4c)
+  * <img src='https://github.com/ameymane09/source-doc-generator/assets/71630371/198bb716-d33c-41be-b79d-abdbb1070d4c' alt="image" width="50%" height="auto">
 * Give all the permissions.
-  * ![image](https://github.com/ameymane09/source-doc-generator/assets/71630371/1af99f9b-1376-4022-90a2-02ce0f54c7db)
+  * <img src='https://github.com/ameymane09/source-doc-generator/assets/71630371/1af99f9b-1376-4022-90a2-02ce0f54c7db' alt="image" width="50%" height="auto">
 
 * After the authentication is complete, you should be greeted with the following message.
   * ```The authentication flow has completed. You may close this window.```
